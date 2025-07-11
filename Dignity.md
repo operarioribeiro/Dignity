@@ -1,5 +1,5 @@
 # [Dignity](https://operarioribeiro.github.com/Dignity)
-
+![image](https://github.com/operarioribeiro/Dignity/blob/main/Dignity.png)
 🍶 _"Leave drugs for those who need them."_
      
 ## Open Project:
