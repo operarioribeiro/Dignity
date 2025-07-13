@@ -1,11 +1,7 @@
 # [Dignity](https://operarioribeiro.github.com/Dignity)
 
 🍶 _"Leave drugs for those who need them."_
-
-|test|aaaaad|fdaa|
-|---|---|---|
-|a|s|d|
-     
+  
 ## Open Project:
 
 **Dignity** is a [sober](https://en.wikipedia.org/wiki/Sobriety) [teetotal](https://en.wikipedia.org/wiki/Teetotalism) [abstemious](https://en.wiktionary.org/wiki/abstemious) [celebration](https://en.wikipedia.org/wiki/Party) of  [temperance](https://en.wikipedia.org/wiki/Temperance) role in [rule of law (RoL)](https://en.wikipedia.org/wiki/Rule_of_law) [nonviolent](https://en.wikipedia.org/wiki/Nonviolence) [culture of peace](https://en.wikipedia.org/wiki/Culture_of_Peace) [dignity](https://en.wikipedia.org/wiki/Dignity).
