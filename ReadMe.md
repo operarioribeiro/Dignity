@@ -1,6 +1,6 @@
 # [Dignity](https://operarioribeiro.github.com/Dignity)
 
-🍶 _"Leave drugs for those who need them."_
+> _"Leave drugs for those who need them."_
      
 ## Open Project:
 
