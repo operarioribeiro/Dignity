@@ -29,4 +29,7 @@
 - We dignify the artists, artisans, scientists, humanitarian servants, peace forces, and academics that work with us by hiring the best producers and using the best technologies compliant.
 - We dignify [bookkeeping](https://en.wikipedia.org/wiki/Bookkeeping) by conducting precise schedules using only [open source](https://en.wikipedia.org/wiki/Open_source) methodologies.
 
+## Open License:
+
 © Licensed under [Nonviolent Nonprofit Open Education License (NNOEL)](https://dx.doi.org/10.17504/protocols.io.bp2l6zkbzgqe/v1).
+
