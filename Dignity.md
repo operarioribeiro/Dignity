@@ -1,7 +1,7 @@
 # [Dignity](https://operarioribeiro.github.com/Dignity)
 
 > _"Leave drugs for those who need them."_
-  
+     
 ## Open Project:
 
 **Dignity** is a [sober](https://en.wikipedia.org/wiki/Sobriety) [teetotal](https://en.wikipedia.org/wiki/Teetotalism) [abstemious](https://en.wiktionary.org/wiki/abstemious) [celebration](https://en.wikipedia.org/wiki/Party) of  [temperance](https://en.wikipedia.org/wiki/Temperance) role in [rule of law (RoL)](https://en.wikipedia.org/wiki/Rule_of_law) [nonviolent](https://en.wikipedia.org/wiki/Nonviolence) [culture of peace](https://en.wikipedia.org/wiki/Culture_of_Peace) [dignity](https://en.wikipedia.org/wiki/Dignity).
@@ -29,4 +29,7 @@
 - We dignify the artists, artisans, scientists, humanitarian servants, peace forces, and academics that work with us by hiring the best producers and using the best technologies compliant.
 - We dignify [bookkeeping](https://en.wikipedia.org/wiki/Bookkeeping) by conducting precise schedules using only [open source](https://en.wikipedia.org/wiki/Open_source) methodologies.
 
+## Open License:
+
 © Licensed under [Nonviolent Nonprofit Open Education License (NNOEL)](https://dx.doi.org/10.17504/protocols.io.bp2l6zkbzgqe/v1).
+
