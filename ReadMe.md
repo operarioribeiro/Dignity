@@ -1,4 +1,4 @@
-# [Dignity](https://operarioribeiro.github.com/Dignity)
+# [Dignity](https://github.com/operarioribeiro/Dignity)
 
 > _"Leave drugs for those who need them."_
      
